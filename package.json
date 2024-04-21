@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietgmetrix/voluptatum-laboriosam-similique-laborum",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,29 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietgmetrix/voluptatum-laboriosam-similique-laborum.git"
   },
   "dependencies": {
+    "@saovietcompany/asperiores-aperiam-tempore-ipsa": "^1.0.0",
+    "@saovietcompany/et-cumque-ab-accusantium": "^1.0.0",
+    "@saovietcompany/ipsum-enim-rem-esse": "^1.0.0",
+    "@saovietgmetrix/accusantium-dolorum-dolore-nesciunt": "^1.0.0",
+    "@saovietgmetrix/beatae-temporibus-molestias-odit": "^1.0.0",
+    "@saovietgmetrix/dicta-asperiores-corrupti-ipsam": "^1.0.0",
+    "@saovietgmetrix/dicta-eveniet-reiciendis-quidem": "^1.0.0",
+    "@saovietgmetrix/dolorem-animi-doloremque-delectus": "^1.0.0",
+    "@saovietgmetrix/dolores-voluptates-adipisci-suscipit": "^1.0.0",
+    "@saovietgmetrix/eaque-iure-architecto-commodi": "^1.0.0",
+    "@saovietgmetrix/exercitationem-adipisci-fugiat-possimus": "^1.0.0",
+    "@saovietgmetrix/hic-reprehenderit-voluptate-impedit": "^1.0.0",
+    "@saovietgmetrix/magni-laborum-nihil-iste": "^1.0.0",
+    "@saovietgmetrix/saepe-est-nostrum-quasi": "^1.0.0",
+    "@saovietgmetrix/ullam-saepe-commodi-quasi": "^1.0.0",
+    "@saovietgmetrix/velit-beatae-labore-cupiditate": "^1.0.0",
+    "@saovietgmetrix/velit-quisquam-quidem-dicta": "^1.0.0",
+    "@saovietgmetrix/voluptatem-sed-quam-consequuntur": "^1.0.0",
+    "@saovietgmetrix/voluptatibus-soluta-mollitia-culpa": "^1.0.0",
+    "@saovietproject/facilis-sequi-excepturi-nihil": "^1.0.0",
+    "@saovietproject/voluptas-doloremque-nostrum-facere": "^1.0.0"
   }
 }
